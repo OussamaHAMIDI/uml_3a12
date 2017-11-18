@@ -1,0 +1,4 @@
+Travail à faire pr le prochain suivi :
+- Diagramme de séquence d'objet pr le cas d'utilisation choisis (chaque etudiant) architecture 3 couches
+- Diagramme de communication (1 seul)
+- Déduire une partie du diagramme de classe de conception
